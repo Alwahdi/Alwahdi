@@ -3,9 +3,7 @@
 <h3 align="center">Full-Stack Architect | AI Systems Engineer | Product Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=alwahdi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -20,15 +18,15 @@
 
 I am **Abdullah A. Alwahdi**, a **Full-Stack Architect and AI-focused software engineer** passionate about building **scalable, intelligent, and production-grade platforms**.
 
-I don't just write code — I **engineer complete digital systems** with clean architecture, strong performance, and exceptional user experience.
+I don't just write code — I **engineer complete systems and products from the ground up**, focusing on clean architecture, performance, and modern user experience.
 
-My work combines:
+My work spans:
 
-- Artificial Intelligence
-- Modern Web Technologies
-- Mobile Applications
-- Geospatial Systems
-- Advanced Data Platforms
+- 🤖 AI-powered applications  
+- 📊 Advanced dashboards and data platforms  
+- 🌍 Geospatial analytics & GIS systems  
+- 📱 Cross-platform mobile applications  
+- 🌐 Modern web platforms  
 
 ---
 
@@ -47,7 +45,7 @@ I focus on building:
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 <p>
@@ -64,7 +62,7 @@ I focus on building:
 <img src="https://skillicons.dev/icons?i=react" /> React Native / Expo
 </p>
 
-### Tools & Platforms
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
@@ -86,9 +84,9 @@ I focus on building:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alwahdi&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwahdi&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -97,28 +95,14 @@ I focus on building:
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alwahdi&theme=tokyo-night" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: (add your LinkedIn)  
-Portfolio: (add your website)
-
-</p>
+GitHub: https://github.com/alwahdi  
 
 ---
 
